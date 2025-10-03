@@ -38,8 +38,7 @@ Halo, aku Rizal👋
 
 ## 🌐 Temukan aku
 - [GitHub](https://github.com/envy766)  
-- [Proyek Utama](https://github.com/envy766/Biodata-Link)
-(https://github.com/envy766/Music-Net)
+- [Proyek Utama](https://github.com/envy766/Music-Net)
 
 ## ⚡ Fun fact
 Aku percaya setiap error itu sebenarnya *petunjuk* untuk belajar hal baru 🚀
