@@ -37,8 +37,9 @@ Halo, aku Rizal👋
 🔹 Suka mencoba otomatisasi dan bot sederhana  
 
 ## 🌐 Temukan aku
-- [GitHub](https://github.com/username-mu)  
-- [Proyek Utama](https://github.com/username-mu/nama-repo-utama)  
+- [GitHub](https://github.com/envy766)  
+- [Proyek Utama](https://github.com/envy766/Biodata-Link)
+(https://github.com/envy766/Music-Net)
 
 ## ⚡ Fun fact
 Aku percaya setiap error itu sebenarnya *petunjuk* untuk belajar hal baru 🚀
